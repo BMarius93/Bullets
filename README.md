@@ -12,11 +12,11 @@ Bullets
   
   Am extins fiecare proiectil din clasa Projectile si fiecare forma si clasa BasicShape
 	
-	In fiecare forma geometrica am creat metoda draw, care deseneaza forma respectiva in functie 
+In fiecare forma geometrica am creat metoda draw, care deseneaza forma respectiva in functie 
 de centru de greutate si ref.
 	
 	
-	In metoda shoot a fiecarui proiectil am facut modificarile marimii de referinta si 
+In metoda shoot a fiecarui proiectil am facut modificarile marimii de referinta si 
 coordonatele centrului de greutate, apoi ai verificat daca se mai transforma sau nu in alt proiectil.
 	
-	In metoda hitScreenAction am apelat metoda draw din forma geometrica aferenta proectilului.
+In metoda hitScreenAction am apelat metoda draw din forma geometrica aferenta proectilului.
